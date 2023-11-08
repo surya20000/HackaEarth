@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url("./assets/winnerbg.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+        
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    margin: 50px;
+    color: #ffffff;
+
+}
+.winnerimg{
+    border-radius: 100%;
+    height: 300px;
+    width: 300px;
+}
+.img{
+    text-align: center;
+}
