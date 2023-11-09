@@ -4,7 +4,7 @@
 }
 body{
     background-image: url(./assets/choicebg.png);
-    background-size: 100% ;
+    background-size:cover;
     background-repeat: no-repeat;
 }
 h1{
