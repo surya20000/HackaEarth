@@ -17,6 +17,7 @@ h1{
 img{
     height: 250px;
     width: 250px;
+    cursor: pointer;
 }
 .teamlist1{
     display: flex;
