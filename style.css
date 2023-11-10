@@ -3,13 +3,12 @@
     margin: 0;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
+  }
+  body {
     background-image: url("./assets/choicebg.png");
     background-size: 100% ;
     background-repeat: no-repeat;
-  }
-  body {
     height: 100vh;
-    background: linear-gradient(184deg,#8754ff,#8E2DE2);
   }
   .start-screen,
   .score-container {
