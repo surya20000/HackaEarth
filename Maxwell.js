@@ -72,8 +72,10 @@ nextBtn.addEventListener(
             displayContainer.classList.add("hide");
             scoreContainer.classList.remove("hide");
             //user score
-            userScore.innerHTML =
-                "Your score is " + scoreCount + " out of " + questionCount;
+            "Your score is " + scoreCount + " out of " + questionCount;
+
+            // Redirect to score.html
+            window.location.href = "scoreBoard.html";
         } else {
             countOfQuestion.innerHTML =
                 questionCount + 1 + " of " + quizArray.length + " Question";
