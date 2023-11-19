@@ -1,0 +1,88 @@
+body {
+    background-image: url("./assets/heckthonbg2.png");
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+}
+#logoandwelcome{
+    display: flex;
+    height: 40vh;
+    width: 100vw;
+
+}
+#logo{
+    width: 150px;
+    height: 150px;
+}
+
+#welcome{
+    color: #583197;
+    font-size: 128px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0px 0px 0px 0px;
+    position: absolute;
+    top: 6vh;
+    left: 26vw;
+}
+#input{
+    height: 20vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+#username{
+    width: 722px;
+    height: 64.229px;
+    border-radius: 30px;
+    background: white;
+    color: #9C66F0;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#password{
+    width: 722px;
+    height: 64.229px;
+    border-radius: 30px;
+    background: white;
+    color: #9C66F0;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#buttons{
+    height: 25vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5vh;
+}
+#login{
+    width: 282px;
+    height: 128px;
+    background-color: #583197;
+    color: #FFF;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#signup{
+    width: 156px;
+    height: 46px;
+    background-color: white;
+    color: #9C66F0;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}

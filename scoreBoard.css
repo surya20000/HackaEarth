@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url("./assets/scoreboardimg.jpg");
+    background-image: url("./assets/heckthonbg3.png");
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -12,7 +12,7 @@ body{
 .sb{
     text-align: center;
     font-size: 20vh;
-    color: white;
+    color: #583197;
 }
 .win{
     text-align: center;
@@ -30,7 +30,7 @@ body{
     display: flex;
     padding: 3vh;
     justify-content: space-around;
-    color: white;
+    color: #9C66F0;;
     align-items: center;
 }
 .img{
