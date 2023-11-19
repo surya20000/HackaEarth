@@ -1,0 +1,44 @@
+body{
+    background: url("./assets/heckthonbg3.png");
+    
+}
+
+#text{
+    color: rgba(114, 42, 222, 0.92);
+    font-family: Times New Roman;
+    font-size: 63.644px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: relative;
+    top: 40vh;
+    left: 50vh;
+    margin: 0px 0px 0px 0px;
+}
+
+#entercode{
+    height: 10vh;
+    width: 70vh;
+    border: 5px;
+    border-radius: 10px;
+    position: relative;
+    top: 40vh;
+    left: 50vh;
+}
+
+#play{
+    width: 27.68vh;
+    height: 10.16vh;
+    position: relative;
+    top: 45vh;
+    left: 65vh;
+    box-shadow: 20px;
+    background-color:  #550FC0;
+    color: #FAFAFA;
+    font-family: Times New Roman;
+    font-size: 63.644px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    box-shadow: 20px 20px 20px;
+}
